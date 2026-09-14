@@ -177,4 +177,4 @@ Introduce **₱199 Kids Ear-Pizza Bundle** (mini pizza + side + drink + dessert 
 
 ---
 
-**Format note:** This .md file is ready for GitHub commit—structured for C-suite readability, with deterministic numbers, local citations, and actionable KPIs per recommendation.
+
